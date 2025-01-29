@@ -1,4 +1,4 @@
-# Deepseek.ASP
+# Deepseek.ASP.Client
 
 **Deepseek.ASP.Client** is a lightweight ASP.NET wrapper for the Deepseek AI API.
 
