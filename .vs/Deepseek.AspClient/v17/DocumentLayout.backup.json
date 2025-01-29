@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\Deepseek.ASP.nuspec||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Deepseek.AspClient\\Deepseek.ASP.nuspec||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\Deepseek.AspClient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Deepseek.AspClient\\Deepseek.AspClient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Deepseek.AspClient\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\LICENSE||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Deepseek.AspClient\\LICENSE||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Deepseek.AspClient\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\Exceptions\\DeepseekException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Deepseek.AspClient\\Exceptions\\DeepseekException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\Models\\Response\\ApiError.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Deepseek.AspClient\\Models\\Response\\ApiError.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\Models\\Response\\DeepseekResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Deepseek.AspClient\\Models\\Response\\DeepseekResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\Models\\Request\\DeepseekRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Deepseek.AspClient\\Models\\Request\\DeepseekRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\Client\\IDeepseekClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Deepseek.AspClient\\Client\\IDeepseekClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\Client\\DeepseekClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Deepseek.AspClient\\Client\\DeepseekClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Deepseek.ASP.nuspec",
+              "DocumentMoniker": "C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\Deepseek.ASP.nuspec",
+              "RelativeDocumentMoniker": "Deepseek.AspClient\\Deepseek.ASP.nuspec",
+              "ToolTip": "C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\Deepseek.ASP.nuspec",
+              "RelativeToolTip": "Deepseek.AspClient\\Deepseek.ASP.nuspec",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-29T09:19:36.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Deepseek.AspClient.csproj",
+              "DocumentMoniker": "C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\Deepseek.AspClient.csproj",
+              "RelativeDocumentMoniker": "Deepseek.AspClient\\Deepseek.AspClient.csproj",
+              "ToolTip": "C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\Deepseek.AspClient.csproj",
+              "RelativeToolTip": "Deepseek.AspClient\\Deepseek.AspClient.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T09:03:37.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\README.md",
+              "RelativeDocumentMoniker": "Deepseek.AspClient\\README.md",
+              "ToolTip": "C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\README.md",
+              "RelativeToolTip": "Deepseek.AspClient\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-01-29T08:51:38.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LICENSE",
+              "DocumentMoniker": "C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\LICENSE",
+              "RelativeDocumentMoniker": "Deepseek.AspClient\\LICENSE",
+              "ToolTip": "C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\LICENSE",
+              "RelativeToolTip": "Deepseek.AspClient\\LICENSE",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-29T08:51:06.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\.gitignore",
+              "RelativeDocumentMoniker": "Deepseek.AspClient\\.gitignore",
+              "ToolTip": "C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\.gitignore",
+              "RelativeToolTip": "Deepseek.AspClient\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-29T08:50:08.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeepseekException.cs",
+              "DocumentMoniker": "C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\Exceptions\\DeepseekException.cs",
+              "RelativeDocumentMoniker": "Deepseek.AspClient\\Exceptions\\DeepseekException.cs",
+              "ToolTip": "C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\Exceptions\\DeepseekException.cs",
+              "RelativeToolTip": "Deepseek.AspClient\\Exceptions\\DeepseekException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T08:37:54.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiError.cs",
+              "DocumentMoniker": "C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\Models\\Response\\ApiError.cs",
+              "RelativeDocumentMoniker": "Deepseek.AspClient\\Models\\Response\\ApiError.cs",
+              "ToolTip": "C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\Models\\Response\\ApiError.cs",
+              "RelativeToolTip": "Deepseek.AspClient\\Models\\Response\\ApiError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T08:37:29.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeepseekResponse.cs",
+              "DocumentMoniker": "C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\Models\\Response\\DeepseekResponse.cs",
+              "RelativeDocumentMoniker": "Deepseek.AspClient\\Models\\Response\\DeepseekResponse.cs",
+              "ToolTip": "C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\Models\\Response\\DeepseekResponse.cs",
+              "RelativeToolTip": "Deepseek.AspClient\\Models\\Response\\DeepseekResponse.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwBwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T08:37:18.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeepseekRequest.cs",
+              "DocumentMoniker": "C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\Models\\Request\\DeepseekRequest.cs",
+              "RelativeDocumentMoniker": "Deepseek.AspClient\\Models\\Request\\DeepseekRequest.cs",
+              "ToolTip": "C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\Models\\Request\\DeepseekRequest.cs",
+              "RelativeToolTip": "Deepseek.AspClient\\Models\\Request\\DeepseekRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T08:37:06.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDeepseekClient.cs",
+              "DocumentMoniker": "C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\Client\\IDeepseekClient.cs",
+              "RelativeDocumentMoniker": "Deepseek.AspClient\\Client\\IDeepseekClient.cs",
+              "ToolTip": "C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\Client\\IDeepseekClient.cs",
+              "RelativeToolTip": "Deepseek.AspClient\\Client\\IDeepseekClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T08:33:33.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeepseekClient.cs",
+              "DocumentMoniker": "C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\Client\\DeepseekClient.cs",
+              "RelativeDocumentMoniker": "Deepseek.AspClient\\Client\\DeepseekClient.cs",
+              "ToolTip": "C:\\Users\\EBH\\source\\repos\\Deepseek.AspClient\\Deepseek.AspClient\\Client\\DeepseekClient.cs",
+              "RelativeToolTip": "Deepseek.AspClient\\Client\\DeepseekClient.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T08:32:41.563Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

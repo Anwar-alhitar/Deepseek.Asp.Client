@@ -1,0 +1,18 @@
+# Ignore Visual Studio files
+.vscode/
+*.vs
+*.user
+*.suo
+.vs/
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore package directories
+packages/
+*.nupkg
+
+# Ignore sensitive files
+secrets.json
+appsettings.json
+appsettings.*.json
