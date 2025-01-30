@@ -1,4 +1,5 @@
 # Deepseek.ASP.Client
+![reerOIP](https://github.com/user-attachments/assets/5e16beb0-993e-47bf-807e-7c8804b313a2)
 
 **Deepseek.ASPClient** is a lightweight ASP.NET wrapper for the Deepseek AI API, designed to simplify AI-driven text processing in .NET applications.
 
