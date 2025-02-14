@@ -11,7 +11,7 @@
 - ✅ Asynchronous and thread-safe
 
 ## Installation
-You can install the package via NuGet:
+You can install the package via NuGet: 
 ```sh
 dotnet add package Deepseek.ASPClient
 ```
