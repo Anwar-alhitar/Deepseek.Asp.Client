@@ -8,8 +8,8 @@ namespace Deepseek.AspClient.Models.Response
 {
     public class ApiError
     {
-        public string Message { get; set; }
-        public string Type { get; set; }
-        public string Code { get; set; }
+        public string? Message { get; set; }
+        public string? Type { get; set; }
+        public string? Code { get; set; }
     }
 }

@@ -11,7 +11,7 @@ namespace Deepseek.AspClient.Exceptions
     {
         public HttpStatusCode StatusCode { get; }
 
-        public DeepseekException(string message, HttpStatusCode statusCode = HttpStatusCode.InternalServerError, Exception innerException = null)
+        public DeepseekException(string message, HttpStatusCode statusCode = HttpStatusCode.InternalServerError, Exception? innerException = null)
             : base(message, innerException)
         {
             StatusCode = statusCode;

@@ -63,7 +63,7 @@ namespace Deepseek.AspClient.Client
         {
             return await GenerateResponseAsync(new DeepseekRequest
             {
-                Messages = new List<Message> { new Message { Content = prompt } }
+                Messages = [new Message { Content = prompt }]
             });
         }
     }

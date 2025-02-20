@@ -9,14 +9,14 @@ namespace Deepseek.AspClient.Models.Response
 {
     public class DeepseekResponse
     {
-        public string Id { get; set; }
-        public List<Choice> Choices { get; set; }
-        public Usage Usage { get; set; }
+        public string? Id { get; set; }
+        public  List<Choice>? Choices { get; set; }
+        public Usage? Usage { get; set; }
     }
     public class Choice
     {
-        public Message Message { get; set; }
-        public string FinishReason { get; set; }
+        public Message? Message { get; set; }
+        public string? FinishReason { get; set; }
     }
 
     public class Usage
